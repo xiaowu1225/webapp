@@ -52,3 +52,5 @@ MANIFEST
 .mr.developer.cfg
 .project
 .pydevproject
+.idea/workspace.xml
+venv/lib/python3.6/__pycache__/
